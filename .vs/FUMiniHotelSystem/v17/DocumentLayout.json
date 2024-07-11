@@ -1,0 +1,861 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|c:\\users\\wvrtu\\documents\\visual studio 2022\\fuminihotelsystem\\fuminihotelsystem\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\models\\bookingreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\bookingreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\iroominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\iroominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\reportstatistic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\reportstatistic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\reportstatistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\reportstatistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\windowadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\windowadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\roominfomanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\roominfomanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\customermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\customermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addroominfomationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addroominfomationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\windowcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\windowcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\dao\\roominfomationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\roominfomationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\roominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\roominfomationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\customerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\customer\\windowcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\customer\\windowcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\customermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\customermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\addroominfomationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\addroominfomationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\roominfomanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\roominfomanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\admin\\windowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\admin\\windowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\dataaccess\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFF67A-FACF-4F99-B355-C0F160FDC589}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\fuminihotelsystem\\fuminihotelsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25675241-C9FE-4EF6-A74E-E1001DA6C389}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\fuminihotelsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBEA8091-843A-448E-AA2C-E91C78F6E3EF}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:33:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\appsettings.json*",
+              "RelativeToolTip": "DataAccess\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:13:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportStatistic.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\ReportStatistic.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\ReportStatistic.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\ReportStatistic.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\ReportStatistic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:38:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FUMiniHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\FUMiniHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\FUMiniHotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\FUMiniHotelManagementContext.cs",
+              "RelativeToolTip": "BusinessObject\\FUMiniHotelManagementContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwCwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:51:52.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomInfoManager.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T17:06:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerManager.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:15:14.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportStatistic.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\ReportStatistic.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\ReportStatistic.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\ReportStatistic.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\ReportStatistic.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:00:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoomInfomationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IRoomInfomationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:09:06.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Models\\BookingReservationDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BookingReservationDTO.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Models\\BookingReservationDTO.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BookingReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:40:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\WindowLogin.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\WindowLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\WindowLogin.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\WindowLogin.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:30:24.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:57:48.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\appsettings.json",
+              "RelativeToolTip": "FUMiniHotelSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T16:09:04.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\AssemblyInfo.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:10:02.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\WindowAdmin.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\WindowAdmin.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\WindowAdmin.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\WindowAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:33:58.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRoomInfomationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T17:19:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\History.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\History.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\History.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\History.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:32:52.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\Profile.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:42:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:22:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T14:57:48.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WindowCustomer.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\WindowCustomer.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\WindowCustomer.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\WindowCustomer.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\WindowCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:40:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomInfomationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RoomInfomationDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:01:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RoomTypeDAO.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RoomTypeDAO.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:29:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObject\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:36:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WindowAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\WindowAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\WindowAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\WindowAdmin.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\WindowAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:36:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "History.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\History.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\History.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\History.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T16:31:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:42:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-10T16:07:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CustomerDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:06:21.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\App.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:59:58.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomInformation.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObject\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:03:43.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerObject.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\CustomerObject.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\CustomerObject.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\CustomerObject.cs",
+              "RelativeToolTip": "BusinessObject\\CustomerObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:57:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:16:58.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WindowCustomer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\WindowCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Customer\\WindowCustomer.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Customer\\WindowCustomer.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Customer\\WindowCustomer.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:41:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T15:00:57.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WindowLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\WindowLogin.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\WindowLogin.xaml",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\WindowLogin.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\WindowLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T15:30:01.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomInfoManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\RoomInfoManager.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:08:18.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "History.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Customer\\History.g.i.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwFIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:52:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoomInfoManager.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\RoomInfoManager.g.i.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:17:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:10:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FUMiniHotelSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem.csproj",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\FUMiniHotelSystem.csproj",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem.csproj",
+              "RelativeToolTip": "FUMiniHotelSystem\\FUMiniHotelSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T15:01:14.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\BookingReservationRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\BookingReservationRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\BookingReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:33:40.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:10:23.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBookingReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IBookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IBookingReservationRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IBookingReservationRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IBookingReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:33:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IRoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IRoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:31:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\RoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\RoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:30:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomInfomationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\RoomInfomationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\RoomInfomationRepository.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccess\\Repository\\RoomInfomationRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\RoomInfomationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:09:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomType.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\RoomType.cs",
+              "RelativeToolTip": "BusinessObject\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:39:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReportStatistic.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\obj\\Debug\\net6.0-windows\\Admin\\ReportStatistic.g.i.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwD4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:52:01.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\CustomerManager.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:17:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddCustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddCustomerWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:23:05.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddRoomInfomationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\Admin\\AddRoomInfomationWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:23:39.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\wvrtu\\Documents\\Visual Studio 2022\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T15:04:13.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
